@@ -1,0 +1,34 @@
+ion-content {
+  --background: #00ff2f;
+
+}
+#header{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.flex-center1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15%;
+  padding-left: 14px;
+
+}
+ion-button{
+  height: 80px;
+  width: 250px;
+
+}
+
+.text0{
+
+  text-align: start;
+}
+
